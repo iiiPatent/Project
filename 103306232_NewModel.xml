@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="dc.xsl"?>
+<design-specification application-num="103306232" dtd-version="1.0.0" lang="tw" produced-by="applicant" receive-date=" " receive-num="1032062973-0" status="p"><description><design-title lang="tw">機車</design-title>
+<main-use><p general="0001" id="_00001">本物品係機車。</p>
+</main-use>
+<description-of-drawings><p general="0002" id="_00002">本設計係新穎獨特之樣式，藉由獨特地設計機車，可顯出先前技藝所未有之視覺效果。</p>
+<p general="0003" id="_00003">仰視圖為普通消費者於選購時或使用時不會注意之視面，故省略之。</p>
+<p general="0004" id="_00004">圖式所呈現之色彩屬本設計不主張之部分。</p>
+</description-of-drawings>
+</description>
+<drawings lang="tw"><figure figure-labels="立體圖1 (代表圖)"><img alt="" file="img-2/draw/103306232-a0101-14-0001-1.jpg" he="1077" id="i0001" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="立體圖2"><img alt="" file="img-2/draw/103306232-a0101-14-0002-2.jpg" he="0880" id="i0002" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="前視圖"><img alt="" file="img-2/draw/103306232-a0101-14-0003-3.jpg" he="1694" id="i0003" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="後視圖"><img alt="" file="img-2/draw/103306232-a0101-14-0004-4.jpg" he="1494" id="i0004" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="左側視圖"><img alt="" file="img-2/draw/103306232-a0101-14-0005-5.jpg" he="0741" id="i0005" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="右側視圖"><img alt="" file="img-2/draw/103306232-a0101-14-0006-6.jpg" he="0715" id="i0006" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+<figure figure-labels="俯視圖"><img alt="" file="img-2/draw/103306232-a0101-14-0007-7.jpg" he="1915" id="i0007" img-content="drawing" img-format="gif" inline="no" orientation="portrait" wi="0900"/></figure>
+</drawings>
+</design-specification>

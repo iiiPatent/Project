@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE specification SYSTEM "../specification.dtd">
+
+<specification application-num="099138568" dtd-version="A103.1.0" filing-date="20101109164036" produced-by="applicant" receive-date="20101109164036" receive-num="0992067206-0" status="p"><abstract lang="tw"><abstract-dtext><p general="" id="_0001">　　本發明係有關於一種節能保溫裝置，其主要係對應該加熱裝置及盛裝容器設有保溫裝置，於該加熱裝置對應盛裝容器之上、下端分別開設有向外貫通之上、下容槽，而該保溫裝置則分別設有相對應之第一容室及第二容室，該第一容室內設置有冷凝性相變化材質之儲能材料，於第一、二容室間則連接導通設有導管，以令第一、二容室及導管間為一整體式連通設置；藉此，以能於被加熱物加熱過程中收集所產生之廢熱，且將所收集之廢熱熱能予以儲存，利用來對被加熱物進行保溫動作，除了能減少排放廢熱對空調造成的負載，且亦可降低保溫階段使用電能之耗費、達到節能效果，而在其整體施行使用上更增實用功效特性者。</p>
+</abstract-dtext>
+</abstract>
+<abstract lang="en"><abstract-dtext><p general="" id="_0002">　　　The invention relates to an energy saving and thermal insulation device. Primarily, a thermal insulation device is provided corresponding to a heating device and a holding container. The heating device includes an upper holding slot and a lower holding slot having an outward opening at its upper end and lower end, respectively. Then a first holding room and a second holding room is corresponsviely arranged on the thermal insulation device, respectively. The first holding room is provided with energy storage materials such as phase-change materialswith the property of condensation. Furthermore, a conduit is communicated between the first holding room and the second holding room so as to form a whole connected set. Accordingly, the waste heat caused during the heating can be collected and stored to preserve heat for the heated objects. In addition to reducing air conditioning loadcaused by emissions of waste heat, the consumption of electrical energy during the thermal insulation can also be lowered to achieve the effect of energy saving, so as to increase the practicability and efficiency for the whole implementation.</p>
+</abstract-dtext>
+</abstract>
+<description><title lang="tw">節能保溫裝置</title>
+<title lang="en">ENERGY SAVING AND THERMAL INSULATION DEVICE</title>
+<technical-field><p general="0001" id="_0003">　　本發明係有關於一種節能保溫裝置，尤其是指一種能於被加熱物加熱過程中收集所產生之廢熱，且將所收集之廢熱熱能予以儲存，利用來對被加熱物進行保溫動作，除了能減少排放廢熱對空調造成的負載，且亦可降低保溫階段使用電能之耗費、達到節能效果，而在其整體施行使用上更增實用功效特性之節能保溫裝置創新設計者。</p>
+</technical-field>
+<background-art><p general="0002" id="_0004">　　按，近年來人們的生活品質逐年提高，也因此快樂的生活〔即一般所稱「樂活」〕儼然成為現今所追求的趨勢、為時下人們生活的新指標，而為能追求快樂的生活，各種便利生活的用品即被陸續研發而出；其中，就一般之加熱用具而言〔如：咖啡機、熱茶機等〕，其於加熱後為對加熱物進行保溫動作，而需持續用電、耗費電能對加熱物進行保溫，讓使用者隨時都能飲用、食用具熱度之飲品、食物。</p>
+<p general="0003" id="_0005">　　然而，上述加熱用具雖可利用持續的電能使用達到對加熱物進行保溫之預期功效，但也在其實際操作施行上發現，就目前而言，電力需求日益劇增，能提供發電之各項資源卻已不敷使用，供發電之各項資源的來源及數量已成為目前社會上的一大隱憂，雖然逐漸有各種新能源的開發，如：太陽能、風力等，不過產生的電能仍然無法與需求量相提並論，也因此除了積極的開源之外，仍需做到節流，方能達到供需平衡，致令該加熱用具在其整體結構設計上仍存有改進之空間。</p>
+<p general="0004" id="_0006">　　緣是，發明人有鑑於此，秉持多年該相關行業之豐富設計開發及實際製作經驗，針對現有之結構及缺失予以研究改良，提供一種節能保溫裝置，以期達到更佳實用價值性之目的者。</p>
+</background-art>
+<disclosure><p general="0005" id="_0007">　　本發明節能保溫裝置，其主要係於加熱裝置連接有盛裝容器，該加熱裝置能進行加熱動作，而盛裝容器則能盛裝被加熱物，而對應該加熱裝置及盛裝容器設有保溫裝置，於該加熱裝置對應盛裝容器之上、下端分別開設有向外貫通之上、下容槽，而該保溫裝置則分別設有相對應之第一容室及第二容室，該第一容室內設置有冷凝性相變化材質之儲能材料，於第一、二容室間則連接導通設有導管，以令第一、二容室及導管間為一整體式連通設置，使得其於使用時，令該加熱裝置進行加熱過程所產生之蒸氣等廢熱會對容設於上容槽中之第一容室進行加熱，使得第一容室內之儲能材料於受熱後融化為液體狀由導管流入容設在下容槽內之第二容室中進行保溫動作，待吸熱後之液體狀儲能材料熱能逐漸散發即會重新凝結為固體狀，即能將與導管為一整體式連通設置之第一容室及第二容室由保溫裝置之上、下容槽中取出旋轉１８０度，以能重覆進行儲能保溫；藉此，以能於被加熱物加熱過程中收集所產生之廢熱，且將所收集之廢熱熱能予以儲存，利用來對被加熱物進行保溫動作，除了能減少排放廢熱對空調造成的負載，且亦可降低保溫階段使用電能之耗費、達到節能效果，而在其整體施行使用上更增實用功效特性者。</p>
+</disclosure>
+<mode-for-invention><p general="0006" id="_0008">　　為令本發明所運用之技術內容、發明目的及其達成之功效有更完整且清楚的揭露，茲於下詳細說明之，並請一併參閱所揭之圖式及圖號：</p>
+<p general="0007" id="_0009">　　首先，請參閱第一圖本發明之立體結構示意圖及第二圖本發明之剖視結構示意圖所示，本發明主要係設有一加熱裝置（１），於該加熱裝置（１）連接有盛裝容器（２），該加熱裝置（１）能進行加熱動作，而盛裝容器（２）則能盛裝被加熱物，並對應該加熱裝置（１）及盛裝容器（２）設有保溫裝置（３）；其中：</p>
+<p general="0008" id="_0010">　　該加熱裝置（１）於對應盛裝容器（２）之上、下端分別開設有向外貫通之上容槽（１１）及下容槽（１２），而該保溫裝置（３）則分別設有相對應之第一容室（３１）及第二容室（３２），該第一容室（３１）內設置有冷凝性相變化材質之儲能材料（３３），該儲能材料（３３）可為石蠟等，於第一容室（３１）與第二容室（３２）間則連接導通設有導管（３４），以令第一容室（３１）、第二容室（３２）及導管（３４）間為一整體式連通設置，另於該導管（３４）表面分別對應第一容室（３１）及第二容室（３２）設有感溫變色貼片（３４１），以能利用感溫變色貼片（３４１）感測第一容室（３１）與第二容室（３２）間之相變化狀態。</p>
+<p general="0009" id="_0011">　　如此一來，使得本發明於使用時，請一併參閱第三圖本發明之使用狀態剖視示意圖所示，其係令該保溫裝置（３）之第一容室（３１）及第二容室（３２）分別容設於加熱裝置（１）之上容槽（１１）及下容槽（１２）內，於該加熱裝置（１）進行加熱過程中，令所產生之蒸氣等廢熱會對容設於上容槽（１１）中之第一容室（３１）進行加熱，使得第一容室（３１）內之儲能材料（３３）於受熱後、讓熱能被儲能材料（３３）所吸收，而由於該儲能材料（３３）係為冷凝性相變化材質，在儲能材料（３３）吸收熱能後即會融化為液體狀，該吸熱後之液體狀儲能材料（３３）即能由第一容室（３１）連接導通之導管（３４）流入容設在下容槽（１２）內之第二容室（３２）中，以能利用該吸熱後之液體狀儲能材料（３３）的熱能對盛裝容器（２）進行保溫動作，待吸熱後之液體狀儲能材料（３３）熱能逐漸散發即會重新凝結為固體狀，其相變化狀態能利用導管（３４）表面之感溫變色貼片（３４１）進行觀察，此時即能將與導管（３４）為一整體式連通設置之第一容室（３１）及第二容室（３２）由保溫裝置（３）之上容槽（１１）及下容槽（１２）中取出〔請再一併參閱第四圖本發明之使用操作動作圖（一）所示〕，將第一容室（３１）及第二容室（３２）旋轉１８０度〔請再一併參閱第五圖本發明之使用操作動作圖（二）所示〕，再將第二容室（３２）容設於上容槽（１１）內、第一容室（３１）容設於下容槽（１２）內，令原本位於上端之第一容室（３１）旋轉至下端做為保溫使用，而原本位於下端之第二容室（３２）則旋轉至上端做為儲能使用，以能重覆進行儲能保溫。</p>
+<p general="0010" id="_0012">　　藉由以上所述，本發明裝置之組成與使用實施說明可知，本發明主要係能於被加熱物加熱過程中收集所產生之廢熱，且將所收集之廢熱熱能予以儲存，利用來對被加熱物進行保溫動作，除了能減少排放廢熱對空調造成的負載，且亦可降低保溫階段使用電能之耗費、達到節能效果，而在其整體施行使用上更增實用功效特性者。</p>
+<p general="0011" id="_0013">　　然而前述之實施例或圖式並非限定本發明之產品結構或使用方式，任何所屬技術領域中具有通常知識者之適當變化或修飾，皆應視為不脫離本發明之專利範疇。</p>
+<p general="0012" id="_0014">　　綜上所述，本發明實施例確能達到所預期之使用功效，又其所揭露之具體構造，不僅未曾見諸於同類產品中，亦未曾公開於申請前，誠已完全符合專利法之規定與要求，爰依法提出發明專利之申請，懇請惠予審查，並賜准專利，則實感德便。</p>
+</mode-for-invention>
+<description-of-drawings><description-of-element><p general="0013" id="_0015">(1)‧‧‧加熱裝置</p>
+<p general="0014" id="_0016">(11)‧‧‧上容槽</p>
+<p general="0015" id="_0017">(12)‧‧‧下容槽</p>
+<p general="0016" id="_0018">(2)‧‧‧盛裝容器</p>
+<p general="0017" id="_0019">(3)‧‧‧保溫裝置</p>
+<p general="0018" id="_0020">(31)‧‧‧第一容室</p>
+<p general="0019" id="_0021">(32)‧‧‧第二容室</p>
+<p general="0020" id="_0022">(33)‧‧‧儲能材料</p>
+<p general="0021" id="_0023">(34)‧‧‧導管</p>
+<p general="0022" id="_0024">(341)‧‧‧感溫變色貼片</p>
+</description-of-element>
+<p general="0023" id="_0025">第一圖：本發明之立體結構示意圖</p>
+<p general="0024" id="_0026">第二圖：本發明之剖視結構示意圖</p>
+<p general="0025" id="_0027">第三圖：本發明之使用狀態剖視示意圖</p>
+<p general="0026" id="_0028">第四圖：本發明之使用操作動作圖（一）</p>
+<p general="0027" id="_0029">第五圖：本發明之使用操作動作圖（二）</p>
+</description-of-drawings>
+</description>
+<claims><claim dependency="dependent-claim" num="1"><claim-text>一種節能保溫裝置，主要係設有一加熱裝置（１），於該加熱裝置（１）連接有盛裝容器（２），該加熱裝置（１）能進行加熱動作，而盛裝容器（２）則能盛裝被加熱物，並對應該加熱裝置（１）及盛裝容器（２）設有保溫裝置（３）；其中：<br></br>
+　　該加熱裝置（１）於對應盛裝容器（２）之上、下端分別開設有向外貫通之上容槽（１１）及下容槽（１２），而該保溫裝置（３）則分別設有相對應之第一容室（３１）及第二容室（３２），該第一容室（３１）內設置有冷凝性相變化材質之儲能材料（３３），於第一容室（３１）與第二容室（３２）間則連接導通設有導管（３４），以令第一容室（３１）、第二容室（３２）及導管（３４）間為一整體式連通設置。</claim-text>
+</claim>
+<claim dependency="dependent-claim" num="2"><claim-text>如申請專利範圍第１項所述節能保溫裝置，其中，該儲能材料（３３）為石蠟。</claim-text>
+</claim>
+<claim dependency="dependent-claim" num="3"><claim-text>如申請專利範圍第１項所述節能保溫裝置，其中，該導管（３４）表面分別對應第一容室（３１）及第二容室（３２）設有感溫變色貼片（３４１），以能利用感溫變色貼片（３４１）感測第一容室（３１）與第二容室（３２）間之相變化狀態。</claim-text>
+</claim>
+</claims>
+<figure-drawings lang="tw" figure-labels="第一圖"><p id="_00002" general="n">(1)‧‧‧加熱裝置
+</p>
+<p id="_00003" general="n">(11)‧‧‧上容槽
+</p>
+<p id="_00004" general="n">(12)‧‧‧下容槽
+</p>
+<p id="_00005" general="n">(2)‧‧‧盛裝容器
+</p>
+<p id="_00006" general="n">(3)‧‧‧保溫裝置
+</p>
+<p id="_00007" general="n">(31)‧‧‧第一容室
+</p>
+<p id="_00008" general="n">(32)‧‧‧第二容室
+</p>
+<p id="_00009" general="n">(34)‧‧‧導管
+</p>
+<p id="_00010" general="n">(341)‧‧‧感溫變色貼片
+</p>
+</figure-drawings>
+<drawings lang="tw"><figure figure-labels="第一圖"><img id="i0001" he="2069" wi="1295" file="099138568-A0305-03-0001-1.TIF" alt="" img-content="drawing" img-format="tif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第二圖"><img id="i0002" he="1986" wi="1454" file="099138568-A0305-03-0002-2.TIF" alt="" img-content="drawing" img-format="tif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第三圖"><img id="i0003" he="1974" wi="1386" file="099138568-A0305-03-0003-4.TIF" alt="" img-content="drawing" img-format="tif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第四圖"><img id="i0004" he="1779" wi="1625" file="099138568-A0305-03-0004-5.TIF" alt="" img-content="drawing" img-format="tif" orientation="portrait" inline="no"/>
+</figure>
+<figure figure-labels="第五圖"><img id="i0005" he="1950" wi="1610" file="099138568-A0305-03-0005-6.TIF" alt="" img-content="drawing" img-format="tif" orientation="portrait" inline="no"/>
+</figure>
+</drawings>
+</specification>
