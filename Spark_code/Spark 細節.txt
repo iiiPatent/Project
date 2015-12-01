@@ -1,0 +1,65 @@
+val arr = labels.coalesce(1,true)
+partition = 1 ，只切出一份檔案 
+
+spark-shell --master --driver-memory 10G --executor-memory 25G --executor-cores 8
+進shell 前可手動調整 memory size ，皆要 int 不然會報錯
+
+
+## 開啟cluster spark-shell:
+// standalone mode
+spark-shell --master spark://master3-1:7077 --driver-memory 10G --executor-memory 2.5G --executor-cores 5
+
+
+localpost:4040 監控UI
+
+RDD操作:
+	rdd1.union(rdd2) => merged!!!
+	rdd1.intersection(rdd2) => 交集!!!
+	rdd1.subtract(rdd2) => 扣除!! (可用在stopwords，但會自動sorting!!)
+	rdd1.count() => 看 rdd 內data量
+
+轉換資料型態:
+_.toDobule
+_.toInt
+_.toDF
+_.rdd
+
+
+	
+	
+安裝流程：
+1. yum install spark & scala
+如果 1. 不行的話：
+2. download Spark & Scala (Spark 1.5.2 沒有內建 Scala ，需重新下指令)
+3. vim 設定文件：
+	1) vim /etc/profile (or ~/.bash-profile):  // 設定 Spark Home 路徑
+		export SPARK_HOME=/home/username(放你的使用者名稱)/spark/spark-1.5.2
+		export SCALA_HOME=/home/username(放你的使用者名稱)/spark/scala-2.11.7
+		
+	/* 小注意：
+		/etc/profile : user 使用的路徑檔，可設定誰可以操作某程式
+		~/.bash-profile : Centos 開機後的路徑檔，一開機就會load進
+	*/	
+		
+	2) vim /home/username/spark/spark-1.5.2/conf/spark-env.sh :
+		export HADOOP_HOME=/opt/hadoop/
+		export HADOOP_CON_DIR=$HADOOP_HOME/etc/hadoop/
+		export SPARK_LOCAL_DIR=/home/masterQQ/spark/spark-1.5.2
+		export SPARK_MASTER_IP=你的IP
+		export SPARK_WORKER_MEMORY=?G
+		export SPARK_LOCAL=你的IP
+		
+4. 啟動 spark!!!!:
+	$SPARK_HOME/sbin/start-all.sh
+	
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+///////////////////////////////////////////////////////
+改良版
+
+(I) tf-idf
+
+import org.apache.spark.mllib.feature._
+import org.apache.spark.mllib.linalg.{Vector,Vectors}
+import org.apache.spark.mllib.clustering.{KMeans,KMeansModel}
+
+
+val documents = sc.textFile("hdfs:///...")
+val corpus = documents.map(x=>(x.split(",")(0),x.split(",")(1).split(" ").toSeq))
+
+val hashingTF = new HashingTF(numFeatures = ##)  // 之後記得調numFeatures
+val tf = corpus.map(x=> (x._1,hashingTF.transform(x._2)) )
+tf.cache()
+
+val idf = new IDF(minDocFreq = 2).fit(tf.map(_._2))
+
+val tfidf = tf.map(x=>(x._1,idf.transform(x._2)))
+
+tfidf.cache()
+
+
+(II) Clustering
+
+val numClusters = 5
+val numIterations = 100000
+val runTimes = 1000
+
+val data = tfidf.map(_._2)
+
+val clusters = KMeans.train(tfidf,numClusters,numIterations,runTimes)
+
+
+val WSSSE = clusters.computeCost(tfidf)
+println("within Set Sum of Squared Errors = " + WSSSE)
+
+val labels = tfidf.map(x=> (x._1,clusters.predict(x._2)))
+
+labels.saveAsTextFile("hdfs:///.../Done/labels")
+
+val  WSSSE_rdd = sc.parallelize(List(WSSSE)).coalesce(1,true)
+
+WSSSE_rdd.saveAsTextFile("hdfs:///.../Done/WSSSE")
+
+

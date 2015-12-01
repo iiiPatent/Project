@@ -1,0 +1,33 @@
+tuple function 版
+
+import org.apache.spark.rdd.RDD
+val data = sc.wholeTextFiles("hdfs:///user/cloudera/dbscan_160/Final/patents4")
+
+def patentMerge(data:RDD[(String,String)]): RDD[String] ={
+	val stopwords = sc.textFile("hdfs:///user/cloudera/dbscan_160/Final/stopwords_withoutEnglish_Final.txt").toArray
+	val patent = data.map(d=>(d._1.substring(73,82),d._2.split(" ")))		
+	val patent_pre = patent.map(d=>(d._1,d._2.filter(_.length>=2).filter(!_.contains("\n"))))
+																 
+	val patent_filtered = patent_pre.map(d=>(d._1,d._2.filterNot(s=>stopwords.contains(s.toLowerCase()))))
+	val patent_final = patent_filtered.map(d=>d._1 + "," + d._2.mkString(" "))
+	patent_final
+}
+
+patent_final.saveAsTextFile("hdfs:///user/cloudera/dbscan_160/Final/Done/patents4")
+
+========================================================================
+轉檔函數
+val data = sc.wholeTextFiles("hdfs:///...")
+val _id = data.map(d=>d._1.substring(73,82))
+val stopwords = sc.textFile("hdfs:///...").toArray
+先過濾垃圾空白、轉小寫
+val patent = data.map(d=>d._2.split(" "))
+				 .map(x=>x.filter(_.toLowerCase().length>=2)
+						  .filter(!_.contains("\n"))
+				     )
+再擋stopwords:
+val patent_filtered = patent_pre.map(p=>p.filterNot(s=>stopwords.contains(s)))
+
+array  合成 String
+val sentence = patent_filtered.map(_.mkString(" ")) 
+
