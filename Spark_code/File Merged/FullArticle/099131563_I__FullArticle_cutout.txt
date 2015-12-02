@@ -1,0 +1,69 @@
+變 馬力 之 引擎 及 其裝置 Engine   of   Variable   Power   and   I ts   Apparatus 
+ 本 發明 係 有 關於 一種 變 馬力 之 引擎 及 其裝置 ， 其 方法 ： 使用中 引擎 可 做 功能性 調整 ， 適當的 馬力輸出 ， 減少 ( 或 增加 或 恢復 ) 原 引擎汽缸 數 目的 運作 ， 同時 匹配 連續運轉 的 曲柄軸 。 其裝置 包括 ： 至少 一 氣缸體 ， 其 係 具備 ： 內周面 形為 圓形 之 氣缸 膛 壁且 可 滑動地 收容 活塞 ， 將該 氣缸 膛 壁 以 從 全周 包圍 之 方式 配置 ； 開關切換 至本 裝置 之 動力傳動 控制單元 ( PCM / ECU ) ， 使用 至少 一 凸輪 及 至少 一 滑桿 ， 操作 凸輪軸 位置 控制單元 ( CMP ) 則 凸輪 旋轉 ， 帶動 滑桿 位移 ， 滑桿 作用 於 一 固定支點 的 旋轉臂 之一 端 ， 利用 摃 桿原理 ， 另端 作用 於 進 ( 排 ) 氣閥 之 閥頭 ， 讓 進氣閥門 關閉 ， 排氣閥門 開啟 ； 同時啟動 電磁閥 ， 旋轉 至少 一排 氣臂 以及 至少 一 進出 氣門 ， 即 關閉 排氣通道 ， 開啟 進 出氣口 ， 其 目的 使 汽缸 與 活塞 間之 壓力 與 大氣壓 一致 ， 且 由 進 出氣口 吸入汽缸 之 氣體 經由 過濾器 ， 不 影響 汽缸 膛 壁 、 活塞 等 元件 ； 同時 透過 點火控制單元 ( ICM ) ， 關閉 燃料油 噴嘴 ， 火星塞 不點火 ， 活塞 連續運轉 下 ， 本 裝置 之 汽缸 不 輸出馬力 。 引擎 採用 本 裝置 技術 ， 可 提高 引擎動力 性 、 經濟 性 和 降低 排污 的 要求 。 Th is   invention   h as   about   one   k in d   engine   of   variable   power   and   its   apparatus ,   its   method :   in   the   use   the   engine   may   make   the   functional ity   adjustment ,   the   suit able   h or se power   output ,   red uces   ( ei the r   increase s   or   re sum es )   the   original   engine   cylinder   number   operation ,   simultaneous ly   match es   the   continuous   working   the   c rank   axle .   I ts   in stall me nt   in clu des :   A   cylinder   block ,   it   is   at   least   h as :   In   the   week   face   shape   is   air   cylinder   of   c he st   cavity   wall   the   circular ,   and   may   skid   accept s   the   pi s ton ,   th is   air   cylinder   c he st   cavity   wall   by   way   of   disposition   from   en tire   week   sur round in g ;   of   power   drive   control   unit   the   switch   cut   to   th is   in stall me nt   ( PCM / ECU ) ,   a   use   at   least   cam   and   a   slide   rod ,   operate s   cam   shaft   position   control   unit   ( CMP )   cam   revolving   at   least ,   lead s   the   slide   rod   displacement ,   the   slide   rod   function   of   an   end   in   dead   a bu t me nt   rotor   arm s ,   the   use   torque s   balance   principle ,   an other   end   affect s   inlet   ( exhaust )   valve   head   of   the   air   valve ,   l et s   the   air - inlet   valve   closure ,   drain   tap   opening ;   Simultaneous ly   start s   the   sol e no id   valve ,   a   revolving   at   least   exhaust   arm   as   well   as   at   least   an   exhaust   gate ,   name ly   the   shut tin g   down   exhaust   channel ,   open s   the   air   outlet ,   its   goal   causes   the   cylinder   the   pressure   to   be   consistent   with   the   pi s ton   between   with   the   atmospheric   pressure ,   and   by   enters   gas   of   the   air   outlet   inspiration   cylinder   by   way   of   the   filter ,   do es   not   affect   cylinder   parts   and   so   on   c he st   cavity   wall ,   pi s ton ;   Simultaneous ly   pen et rates   the   ignition   control   unit   ( ICM ) ,   the   closure   bu nker   oil   spray   nozzle ,   the   spark   plug   do es   not   ignite ,   under   the   pi s ton   continuous   working ,   cylinder   of   th is   in stall me nt   do es   not   output   the   h or se power .   The   engine   use s   th is   in stall me nt   technology ,   may   en han ce   the   engine   power ,   the   efficiency   and   red uces   the   pollution   discharge   the   request . 
+ 本 發明 係 有 關於 一種 變 馬力 之 引擎 及 其裝置 ， 引擎汽缸 數目 固定 ， 變 馬力輸出 有 其 受限制 ， 本 創作 揭露 行駛 中 引擎汽缸 數目 可 做 功能性 調整 ， 選擇 引擎輸出 適當的 馬力 ， 匹配 連續運轉 的 曲柄軸 ， 可 因應 社會 之 節能減碳 對策 。 
+ 習知 引擎 裝置 運用 增加 油量 以及 渦輪 噴氣 ( Turbojet 
+ ) 分別 增加 引擎 之 馬力輸出 。 
+ 但是 ， 到 目前 為止 ， 利用 變 馬力 之 引擎 尚未 出現 ， 即 引擎 可 做 功能性 調整 ， 適當的 馬力輸出 ， 減少 ( 或 增加 或 恢復 ) 原 引擎汽缸 數 目的 運作 ， 同時 匹配 連續運轉 的 曲柄軸 。 
+ 因此 ， 本 創作 之一 範疇 在於 提供 一種 變 馬力 之 引擎 及 其裝置 ， 其 利用 固定的 引擎汽缸 數目 ， 施以 偵測控制 系統 ， 可改變 引擎汽缸 數目 運作 的 輸出馬力 ； 即可 減少 ( 或 增加 或 恢復 ) 使用 原 引擎汽缸 之 數目 讓 輸出 不同 之 馬力 ， 應用 於 驅動 中的 引擎 更具 彈性化 ， 確保 行駛 中車 的 安全性 與 符合 節能 減炭 的 效果 。 以下 為 舉例 ， 轎車 V8   400 0 cc 
+ 之 引擎 ， 其中 ， 8 
+ 個 引擎汽缸 在 72 0 
+ 度 之 曲柄軸 運作 下 ， 可 提供 400 0 cc 
+ 之 馬力 ； 使用 變 馬力 之 引擎 以及 透過 控制電路 ， 轎車 將可 減少 馬力輸出 成為 V4   2000 cc 
+ 之 引擎 且 匹配 在 360 
+ 度 之 曲柄軸 連續 運作 。 
+ 爰 此 ， 有鑑 於 習知 引擎 裝置 ， 故本 發明 提供 一種 變 馬力 之 引擎 ， 其 方法 步驟 如下 ： 
+ A. 施以 變 馬力 之 引擎 ： 引擎汽缸 數目 固定 ， 使用中 引擎汽缸 數目 可 做 功能性 調整 ， 依 負荷 ( 速度 ) 等 需求 選擇 引擎輸出 適當的 功率 而 減少 ( 或 增加 或 恢復 ) 原 汽缸 數 目的 使用 ， 以及 匹配 連續運轉 的 曲柄軸 。 
+ B. 施以 凸輪軸 位置 控制單元 ： 啟動 PCM ， 讓 進氣閥門 關閉 ， 排氣閥門 開啟 ， 運作 之 汽缸 ， 活塞移動 ， 造成 大於 或 小於 大氣壓力 時 必須 做 負功 ( 對 汽缸 作功 ) ， 因此 ， 對 汽缸 不 做功 ， 需 汽缸 內外 之 壓力 一致 ， 且 活塞壓縮 ( 排氣 ) 與 膨脹 ( 吸氣 ) 時 ， 進入 汽缸 的 潔淨 氣體 而 不 污染影響 汽缸 膛 壁 等 元件 。 請 參閱 第三 圖 ( a ) 示中 ， a 、 b 、 c 
+ 分別 相對 支點 之 長度 ， c 
+ ＞ b 
+ ， 得知 滑桿 作用 滑 桿頭 ( 16 1 ) 最大位移 時 ， 此時 滑桿 作用 滑 桿頭 ( 162 ) 作用 即 不 影響 排氣閥 頭 ( 25 ) 的 位移 ； 同樣 ， 請 參閱 第三 圖 ( b ) 示中 ， c 
+ ＜ b 
+ ， 得知 滑桿 作用 滑 桿頭 ( 16 3 ) 位移 時 ， 此時 滑桿 作用 滑 桿頭 ( 16 4 ) 作用 即 不 影響 進氣閥 頭 ( 25 1 ) 的 位移 。 
+ C. 施以 點火控制單元 ： 在 活塞 照 常運轉 下 ， 透過 凸輪軸 位置控制 ， 啟動 本 裝置 ， 讓 進氣閥門 關閉 ， 排氣閥門 開啟 ； 同時啟動 電磁閥 ， 關閉 排氣通道 ( 請 參閱 第二 圖示 進出 氣門 位於 垂直位置 ) ， 開啟 進 出氣口 ； 同時啟動 點火控制單元 ， 關閉 燃料油 噴嘴 ， 火星塞 不點火 。 
+ 本 發明 亦 為 一種 變 馬力 之 引擎 裝置 ， 其裝置 特 徵在於 包括 ： 至少 一 氣缸體 ， 其 係 具備 ： 內周面 形為 圓形 之 氣缸 膛 壁且 可 滑動地 收容 活塞 ， 將該 氣缸 膛 壁 以 從 全周 包圍 之 方式 配置 ； 開關切換 至本 裝置 之 動力傳動 控制單元 ， 使用 至少 一 凸輪 及 至少 一 滑桿 ， 操作 凸輪軸 位置 控制單元則 凸輪 旋轉 ， 帶動 滑桿 位移 ， 滑桿 作用 於 一 固定支點 的 旋轉臂 之一 端 ， 利用 摃 桿原理 ， 另端 作用 於 進 ( 排 ) 氣閥 之 閥頭 ， 讓 進氣閥門 關閉 ， 排氣閥門 開啟 ； 同時啟動 電磁閥 ， 旋轉 至少 一排 氣臂 及 至少 一 進出 氣門 ， 即 關閉 排氣通道 ， 開啟 進 出氣口 ， 且 由 進 出氣口 吸入汽缸 之 氣體 經由 過濾器 ； 同時 透過 點火控制單元 ， 關閉 燃料油 噴嘴 ， 火星塞 不點火 ， 在 活塞 連續運轉 下 ， 使用 本 裝置 之 汽缸 不 輸出馬力 。 引擎 ( 發動機 ) 採用 本 裝置 技術 ， 引擎 ( 發動機 ) 的 扭矩 和 功率 可以 得到 進一步的 彈性 應用 。 變 馬力 之 引擎 裝置 技術 有 可能 成為 未來 內燃機 技術的 發展方向 。 
+ 本 發明 具有 下列 之 優點 ： 
+ 1 . 本 發明 可 提高 引擎動力 性 、 經濟 性 和 降低 排污 的 要求 ； 即 做 功能性 調整 運作 引擎汽缸 數目 ， 提供 使用中 引擎 可 減少 ( 或 增加 ) 引擎出力 ， 機械效率 彈性的 增加 ， 耗油量 減少 等 ， 因應 世界 節能減碳 對策 。 
+ 2 . 本 發明 之 裝置 ， 安裝簡單 ， 應用 引擎 本身 承載 負荷 ( 或 速度 ) 與 輸出馬力 成正比 關係 ， 施以 動力傳動 控制單元 以及 不 影響 引擎本體 下 ， 於 排氣通道 上安 裝進 出氣口 、 排氣 臂 、 進出 氣門 及 電磁閥 ； 於 閥 桿頭 末端 安裝 滑桿 、 凸輪 及 旋轉臂 等 元件 。 
+ ( 1 ) ． ． ． 動力傳動 控制 ( PCM / ECU ) 單元 
+ ( 2 ) ． ． ． 凸輪軸 位置控制 ( CMP ) 單元 
+ ( 3 ) ． ． ． 點火控制 ( ICM ) 單元 
+ ( 10 ) ． ． ． 氣缸體 
+ ( 11 ) ． ． ． 氣缸 膛 壁 
+ ( 12 ) ． ． ． 活塞 
+ ( 13 ) ． ． ． 排氣閥 
+ ( 14 ) ． ． ． 進氣閥 
+ ( 15 ) ． ． ． 旋轉臂 
+ ( 16 ) ． ． ． 滑桿 
+ ( 16 1 ) ． ． ． 滑 桿頭 
+ ( 162 ) ． ． ． 滑 桿頭 
+ ( 16 3 ) ． ． ． 滑 桿頭 
+ ( 16 4 ) ． ． ． 滑 桿頭 
+ ( 17 ) ． ． ． 固定支點 
+ ( 18 ) ． ． ． 凸輪 
+ ( 19 ) ． ． ． 電磁閥 
+ ( 20 ) ． ． ． 排氣 臂 
+ ( 21 ) ． ． ． 進出 氣門 
+ ( 22 ) ． ． ． 排氣通道 
+ ( 23 ) ． ． ． 進氣通道 
+ ( 24 ) ． ． ． 進 出氣口 
+ ( 25 ) ． ． ． 閥頭 
+ ( 25 1 ) ． ． ． 閥頭 
+ ( 26 ) ． ． ． 火星塞 
+ ( 27 ) ． ． ． 燃料 噴油嘴 
+ ( 28 ) ． ． ． 排氣通道 本體 
+ ( 29 ) ． ． ． 密封環 
+ ( 30 ) ． ． ． 連接球 ( joint   ball ) 
+ ( 31 ) ． ． ． 固定座 
+ 
+ 第一 圖 係 為 本 發明 之變 馬力 之 引擎 裝置 示意圖 。 
+ 第二 圖 係 為 本 發明 之變 馬力 引擎 之 進排氣門 裝置 之 視圖 。 
+ 第三 圖 ( a ) 係 為 本 發明 之 凸輪軸 位置 控制對 排氣閥 位置圖 。 
+ 第三 圖 ( b ) 係 為 本 發明 之 凸輪軸 位置 控制對 進氣閥 位置圖 。 
+ 第 四圖 係 為 本 發明 之 裝置 工作流程 示意圖 。 
+ 首先 ， 請 參閱 第一 圖 所示 ， 本 發明 係 為 一種 變 馬力 之 引擎 ， 其 方法 ： 引擎汽缸 數目 固定 ， 行駛 中 引擎汽缸 數目 可 做 功能性 調整 ， 選擇輸出 適當的 功率 而 減少 或 增加 汽缸 數 目的 使用 ， 及 匹配 連續運轉 的 曲柄軸 。 
+ 另外 ， 請 參閱 第一 圖 所示 ， 本 發明 亦 為 一種 變 馬力 之 引擎 裝置 ， 其裝置 特 徵在於 包括 ： 至少 一 氣缸體 ( 10 ) ， 其 係 具備 ： 內周面 形為 圓形 之 氣缸 膛 壁 ( 11 ) 且 可 滑動地 收容 活塞 ( 12 ) ， 將該 氣缸 膛 壁 ( 11 ) 以 從 全周 包圍 之 方式 配置 ； 開關切換 至本 裝置 之 動力傳動 控制單元 ( 1 ) ， 使用 至少 一 凸輪 及 至少 一 滑桿 ， 操作 凸輪軸 位置 控制單元 ( 2 ) 則 凸輪 ( 18 ) 旋轉 ， 帶動 滑桿 ( 16 ) 位移 ， 滑桿 ( 16 ) 作用 於 一 固定支點 ( 17 ) 的 旋轉臂 ( 15 ) 之一 端 ， 利用 摃 桿原理 ， 另端 分別 作用 於 排氣閥 ( 13 ) 之 閥頭 ( 25 ) 與 進氣閥 ( 14 ) 之 閥頭 ( 25 1 ) ， 讓 進氣閥門 關閉 ， 排氣閥門 開啟 ； 同時啟動 電磁閥 ( 19 ) ， 旋轉 至少 一排 氣臂 ( 20 ) 以及 至少 一 進出 氣門 ( 21 ) ， 其中 ， 進出 氣門 ( 21 ) 外框 具有 密封環 ( 29 ) ， 即 關閉 排氣通道 ( 22 ) ， 開啟 進 出氣口 ( 24 ) ， 其 目的 使 汽缸 ( 10 ) 與 活塞 ( 12 ) 間之 壓力 與 大氣壓 一致 ， 且 由 進 出氣口 ( 24 ) 吸入汽缸 ( 10 ) 之 氣體 經由 過濾器 ( 圖中 未繪示 ) ， 不 影響 汽缸 膛 壁 ( 11 ) 、 活塞 ( 12 ) 等 元件 ； 同時 透過 點火控制單元 ( 3 ) ， 關閉 燃料油 噴嘴 ( 27 ) ， 火星塞 ( 26 ) 不點火 ， 活塞 ( 12 ) 連續運轉 下 ， 本 裝置 之 汽缸 ( 10 ) 不 輸出馬力 也 不 做功 。 引擎 ( 發動機 ) 採用 可變 汽缸 數目 技術 是 透過 動力傳動 控制單元 ( 1 ) 使運作 中的 汽缸 獲得 排汽凸輪 的 相對位置 變化 ， 開啟 排汽閥 門讓 汽缸 內 外壓力 一致 。 這種 屬於 凸輪軸 匹配 汽 相位 可變結構 ， 而 原本的 凸輪軸 、 凸輪形 線 、 排汽 及 進汽 持續 角均 不變 。 引擎 ( 發動機 ) 採用 可變 汽缸 數目 技術 ， 引擎 ( 發動機 ) 的 扭矩 和 功率 可以 得到 進一步的 彈性 應用 。 
+ 一種 變 馬力 之 引擎 裝置 包括 ： 至少 一 氣缸體 ， 其 係 具備 為 內周面 形為 圓形 之 氣缸 膛 壁且 可 滑動地 收容 活塞 ， 將該 氣缸 膛 壁 以 從 全周 包圍 之 方式 配置 ； 開關切換 至本 裝置 之 動力傳動 控制單元 ， 使用 至少 一 凸輪 及 至少 一 滑桿 ， 操作 凸輪軸 位置 控制單元則 凸輪 旋轉 ， 帶動 滑桿 位移 ， 滑桿 作用 於 一 固定支點 的 旋轉臂 之一 端 ， 利用 摃 桿原理 ， 另端 作用 於 進 ( 排 ) 氣閥 之 閥頭 ， 讓 進氣閥門 關閉 ， 排氣閥門 開啟 ； 同時啟動 電磁閥 ， 旋轉 至少 一排 氣臂 及 至少 進出 氣門 ， 即 關閉 排氣通道 ， 開啟 進 出氣口 ， 且 由 進 出氣口 吸入汽缸 之 氣體 經由 過濾器 ； 同時 透過 點火控制單元 ， 關閉 燃料油 噴嘴 ， 火星塞 不點火 ， 而 活塞 連續運轉 下 ， 本 裝置 之 汽缸 即 不 輸出馬力 。 
+ 
+ 
+ 如 申請專利範圍 第1 項 所述 之變 馬力 之 引擎 裝置 ， 其中 ， 該 排氣通道 構件 內 係 配合 引擎 內 外壓力 一致 ， 安裝 至少 一進 出氣口 及 至少 一 進出 氣門 。 
+ 
